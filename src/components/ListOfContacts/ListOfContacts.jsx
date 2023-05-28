@@ -29,10 +29,10 @@ class ListOfContacts extends Component {
 }
 
 const NotUglyBtn = styled.button`
-  margin-left: 5px;
-  border-radius: 30%;
-  border-color: #901818ce;
-  background-color: #d1212152;
+  margin-left:15px;
+  border-radius: 10%;
+  border-color: black;
+  background-color: transparent;
 
   :active {
     background-color: #e07474;
